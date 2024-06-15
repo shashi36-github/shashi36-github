@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shashi Kiran</h1>
 <h3 align="center">A passionate in Machine Learning, Language Modelling ,Full-Stack Developer and also data scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisrushik&label=Profile%20views&color=0e75b6&style=flat" alt="saisrushik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SUDANA SHASHI KIRAN&label=Profile%20views&color=0e75b6&style=flat" alt="SHASHI KIRAN" /> </p>
 
 - 👨‍💻 Portfolio 
 
@@ -21,6 +21,7 @@
 <a href="https://www.snapchat.com/add/caps_001?share_id=AccBCfhC7PI&locale=en-IN " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="shashi_kiran" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shashi_kiran_36?igsh=OGp5ODlxNGhxaXE1 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashi_kiran_36" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/sudanashashi36/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SHASHI KIRAN" height="30" width="40" /></a>
+<a href="sudanasashi36@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="SHASHI KIRAN" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
