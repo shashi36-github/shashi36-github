@@ -25,7 +25,7 @@
 <a href="https://kaggle.com/saisrushikgovindgari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saisrushikgovindgari" height="30" width="40" /></a>
 <a href="https://instagram.com/srushik_s_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srushik_s_k" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saisrushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saisrushik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sai_srushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sai_srushik" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sudanashashi36/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SHASHI KIRAN" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
