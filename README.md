@@ -1,5 +1,8 @@
+<div align="center">
+[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+</div>
 
-<h1 align="center">Hi 👋, I'm Shashi Kiran</h1>
 <h3 align="center">A passionate in Machine Learning, Language Modelling ,Full-Stack Developer and also data scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SUDANA SHASHI KIRAN&label=Profile%20views&color=0e75b6&style=flat" alt="SHASHI KIRAN" /> </p>
