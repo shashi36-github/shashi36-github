@@ -3,7 +3,7 @@
 <h3 align="center">A passionate in Machine Learning, Language Modelling ,Full-Stack Developer and also data scientist</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SUDANA SHASHI KIRAN&label=Profile%20views&color=0e75b6&style=flat" alt="SHASHI KIRAN" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisrushik&label=Profile%20views&color=0e75b6&style=flat" alt="saisrushik" /> </p>
 
 - 👨‍💻 Portfolio 
 
