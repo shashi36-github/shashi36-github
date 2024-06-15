@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sudanashashi36@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VjDNsulBufA0vfNpq7Qg9CCCEGc5B40b/view?usp=drive_link](https://drive.google.com/file/d/1VjDNsulBufA0vfNpq7Qg9CCCEGc5B40b/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WaqsDKw-U1vFNxUNiMprY5_Y8rtin3BQ/view?usp=sharing)
 
 - ⚡ Fun fact **I'm highly humorous🤣**
 
