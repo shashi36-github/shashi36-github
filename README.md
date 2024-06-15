@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
+[![Hello World, I'm Shashi!](assets/header.gif)](https://github.com/shashi36-github)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
