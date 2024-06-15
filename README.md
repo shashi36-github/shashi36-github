@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sai Srushik</h1>
+<h1 align="center">Hi 👋, I'm Shashi Kiran</h1>
 <h3 align="center">A passionate in Machine Learning, Language Modelling and also a Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisrushik&label=Profile%20views&color=0e75b6&style=flat" alt="saisrushik" /> </p>
