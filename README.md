@@ -15,10 +15,10 @@
 - ⚡ Fun fact **I'm highly humorous🤣**
 <div align="center">
 ## 💡 A Quote:
-</div>
+
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="middle">
 <a href="https://x.com/hkewf?t=0v9JiV2GxyVXUhKjXnMLnw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hkewf" height="30" width="40" /></a>
