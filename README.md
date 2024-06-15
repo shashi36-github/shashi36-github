@@ -15,12 +15,11 @@
 - ⚡ Fun fact **I'm highly humorous🤣**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sai_srushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sai_srushik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sai srushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai srushik" height="30" width="40" /></a>
-<a href="https://kaggle.com/saisrushikgovindgari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saisrushikgovindgari" height="30" width="40" /></a>
-<a href="https://instagram.com/srushik_s_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srushik_s_k" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saisrushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saisrushik" height="30" width="40" /></a>
+<p align="middle">
+<a href="https://x.com/hkewf?t=0v9JiV2GxyVXUhKjXnMLnw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hkewf" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shashi-kiran-sudana-a55743273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi-kiran-sudana" height="30" width="40" /></a>
+<a href="https://www.snapchat.com/add/caps_001?share_id=AccBCfhC7PI&locale=en-IN " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="shashi_kiran" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shashi_kiran_36?igsh=OGp5ODlxNGhxaXE1 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashi_kiran_36" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/sudanashashi36/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SHASHI KIRAN" height="30" width="40" /></a>
 </p>
 
