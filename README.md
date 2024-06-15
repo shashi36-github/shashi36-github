@@ -1,13 +1,7 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Shashi kiran</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SUDANA SHASHI KIRAN&label=Profile%20views&color=0e75b6&style=flat" alt="SUDANA SHASHI KIRAN
+" /> </p>
 
-[![Hello World, I'm Shashi!](assets/header.gif)](https://github.com/shashi36-github)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
-
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
-
-</div>
 
 <h3 align="center">A passionate in Machine Learning, Language Modelling ,Full-Stack Developer and also data scientist</h3>
 
